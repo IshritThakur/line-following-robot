@@ -3,7 +3,7 @@
   <name>line_follower</name>
   <version>0.0.1</version>
   <description>A ROS2 Python package for a simple line following robot.</description>
-  <maintainer email="your-email@example.com">Your Name</maintainer>
+  <maintainer email="ishritthakur@gmail.com">Ishrit Thakur</maintainer>
   <license>Apache-2.0</license>
 
   <exec_depend>rclpy</exec_depend>
